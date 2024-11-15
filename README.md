@@ -1,1 +1,1 @@
-# landing-page
+# landing-page for web development internship.
